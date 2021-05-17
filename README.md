@@ -3,7 +3,7 @@
 
 ### 簡介
 
-這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)在用 Python 清理資料常用的方法，[網頁版](https://jshuang0520.github.io/python_4_ds_skills/)
+這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)在用 Python 清理資料常用的方法，[網頁版](https://jshuang0520.github.io/notes_for_data_science/)
 
 
 ### Compilor Online
@@ -16,9 +16,9 @@
 
 ### 大綱
 
- - [Dataframe - 指定匯入EXCEL的特定表單_選取特定欄位_變更欄位名稱_排列欄位順序](http://nbviewer.jupyter.org/github/jshuang0520/python_4_ds_skills/blob/master/python_指定匯入EXCEL的特定表單_選取特定欄位_變更欄位名稱_排列欄位順序.ipynb)
+ - [Dataframe - 指定匯入EXCEL的特定表單_選取特定欄位_變更欄位名稱_排列欄位順序](http://nbviewer.jupyter.org/github/jshuang0520/notes_for_data_science/blob/master/python_指定匯入EXCEL的特定表單_選取特定欄位_變更欄位名稱_排列欄位順序.ipynb)
 
- - [Jupyter Notebook Sublime指令 安裝流程](http://nbviewer.jupyter.org/github/jshuang0520/python_4_ds_skills/blob/master/Sublime指令安裝法.ipynb)
+ - [Jupyter Notebook Sublime指令 安裝流程](http://nbviewer.jupyter.org/github/jshuang0520/notes_for_data_science/blob/master/Sublime指令安裝法.ipynb)
  
  - [Sublime Text 基礎熱鍵表 1](https://www.camdemy.com/media/6211)
  
@@ -27,11 +27,11 @@
 
 #### Python - MySQL
 
- - [Python connect to MySQL with XAMPP](http://nbviewer.jupyter.org/github/jshuang0520/python_4_ds_skills/blob/master/2018.06.20_Python_connect_to_MySQL_with_XAMPP.ipynb)
+ - [Python connect to MySQL with XAMPP](http://nbviewer.jupyter.org/github/jshuang0520/notes_for_data_science/blob/master/2018.06.20_Python_connect_to_MySQL_with_XAMPP.ipynb)
 
- - [Python connect to MySQL : SQL DDL + web crawler (104 & Google Map)](http://nbviewer.jupyter.org/github/jshuang0520/python_4_ds_skills/blob/master/web_crawler_for_104_job_2018.12.16_ver_2.ipynb)
+ - [Python connect to MySQL : SQL DDL + web crawler (104 & Google Map)](http://nbviewer.jupyter.org/github/jshuang0520/notes_for_data_science/blob/master/web_crawler_for_104_job_2018.12.16_ver_2.ipynb)
 
- - [Python connect to MySQL : SQL statement + web crawler (overstock.com)](http://nbviewer.jupyter.org/github/jshuang0520/python_4_ds_skills/blob/master/topline_2019.01.09_demo.ipynb)
+ - [Python connect to MySQL : SQL statement + web crawler (overstock.com)](http://nbviewer.jupyter.org/github/jshuang0520/notes_for_data_science/blob/master/topline_2019.01.09_demo.ipynb)
 
 
 #### Python - Flask - MySQL
@@ -123,7 +123,7 @@
 
 #### Python - Recommendation System 筆記
 
-- [協同過濾 - User-Based, Item-Based](http://nbviewer.jupyter.org/github/jshuang0520/python_4_ds_skills/blob/master/recommendation_system.ipynb)
+- [協同過濾 - User-Based, Item-Based](http://nbviewer.jupyter.org/github/jshuang0520/notes_for_data_science/blob/master/recommendation_system.ipynb)
 
 ---
 
